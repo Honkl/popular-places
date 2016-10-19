@@ -1,23 +1,23 @@
-,name,distances_time,distances_km
-0,Cinema City,32 mins,5.0 km
-1,Kino Aero,39 mins,6.6 km
-2,BIO OKO,19 mins,3.2 km
-3,Kino Světozor,32 mins,5.9 km
-4,Cinema City,35 mins,7.9 km
-5,Premiere Cinemas Praha Hostivař,56 mins,17.1 km
-6,Kino Lucerna,33 mins,5.9 km
-7,Kino Atlas,23 mins,4.4 km
-8,Komorní kino Evald,32 mins,6.3 km
-9,Cinema City,40 mins,7.5 km
-10,Mat,33 mins,7.1 km
-11,CINEMA CITY Zličín,1 hour 2 mins,19.5 km
-12,Village Cinemas Czech Republic s.r.o.,43 mins,8.1 km
-13,Cinema City,38 mins,9.8 km
-14,Kino NFA Ponrepo,30 mins,6.1 km
-15,Cinema City Galaxie,43 mins,16.2 km
-16,"Heaven Praha, spol. s r.o.",30 mins,6.7 km
-17,National Theatre,27 mins,6.3 km
-18,The Estates Theatre,30 mins,5.5 km
-19,Wow show Prague,32 mins,5.0 km
-20,Palace Cinemas Slovanský dum,32 mins,5.0 km
-21,Cinema City,56 mins,17.1 km
+,name,distances_time,distances_km,lats,lngs
+0,Cinema City,1738,4936,50.0863837,14.4274028
+1,Kino Aero,2532,8517,50.090172,14.4719146
+2,BIO OKO,1135,3200,50.0999962,14.430005
+3,Kino Světozor,1932,5883,50.0818326,14.4252589
+4,Cinema City,2126,7285,50.0788488,14.4611085
+5,Premiere Cinemas Praha Hostivař,3786,14375,50.053432,14.517467
+6,Kino Lucerna,1983,5930,50.0813695,14.4254026
+7,Kino Atlas,1449,3810,50.0914615,14.438476
+8,Komorní kino Evald,1913,6288,50.082452,14.42006
+9,Cinema City,2373,7474,50.0739296,14.4026741
+10,Mat,1988,7079,50.077838,14.4192923
+11,CINEMA CITY Zličín,3723,19504,50.0539126,14.2871948
+12,Village Cinemas Czech Republic s.r.o.,2577,8106,50.0711112,14.4013542
+13,Cinema City,2270,9752,50.1371125,14.5020068
+14,Kino NFA Ponrepo,1817,6114,50.0830384,14.4175313
+15,Cinema City Galaxie,2655,15529,50.0321765,14.5278204
+16,"Heaven Praha, spol. s r.o.",1782,6736,50.0747139,14.4146365
+17,National Theatre,1635,6263,50.0810018,14.413572
+18,The Estates Theatre,1800,5502,50.0859782,14.4236651
+19,Wow show Prague,1752,4957,50.0865801,14.4269187
+20,Palace Cinemas Slovanský dum,1738,4936,50.0863837,14.4274028
+21,Cinema City,3796,14388,50.0532704,14.5168094
